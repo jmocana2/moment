@@ -65,10 +65,24 @@
 	},
 	"expanded_folders":
 	[
-		"/C/www/moment"
+		"/C/www/moment",
+		"/C/www/moment/app",
+		"/C/www/moment/app/bower_components",
+		"/C/www/moment/app/elements"
 	],
 	"file_history":
 	[
+		"/C/www/moment/app/elements/elements.html",
+		"/C/www/moment/app/bower_components/iron-resizable-behavior/iron-resizable-behavior.html",
+		"/C/www/moment/app/bower_components/paper-scroll-header-panel/paper-scroll-header-panel.html",
+		"/C/www/moment/app/styles/app-theme.html",
+		"/C/www/moment/app/index.html",
+		"/C/www/moment/app/elements/moment-date/moment-date.html",
+		"/C/www/moment/app/elements/my-list/my-list.html",
+		"/C/www/moment/app/bower_components/polymer/polymer.html",
+		"/C/www/moment/app/styles/shared-styles.html",
+		"/C/www/moment/.gitignore",
+		"/C/Users/JoseMaría/Downloads/app-theme (2).html",
 		"/C/www/momenter/bower.json",
 		"/C/www/momenter/package.json",
 		"/C/www/momenter/angular2/package.json",
@@ -170,9 +184,11 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 96.0,
 		"where_history":
 		[
+			"C:\\www\\moment",
+			"C:\\www\\moment\\"
 		]
 	},
 	"find_state":
@@ -180,6 +196,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"paper-scroll-header-container",
+			"--paper-scroll-header-container",
+			"paper-scroll-header-container",
+			"vulcanized",
 			"comment",
 			"node_modules",
 			"</script>",
